@@ -1,3 +1,7 @@
+
+
+
+Clone The Repository
 ```bash
   git clone https://github.com/1YaswantH1/Image-Enhancer.git
 
@@ -21,5 +25,6 @@ To Run Batch/Single:
 
 To Run Interactively
 ```bash
- python Dynamic_Run.py
+  python Dynamic_Run.py
 ```
+
