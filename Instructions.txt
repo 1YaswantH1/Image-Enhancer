@@ -1,0 +1,2 @@
+python inference_realesrgan.py -n RealESRGAN_x4plus -i inputs -o results --fp32
+python inference_realesrgan.py -n RealESRGAN_x4plus -i Noise-Remover/inputs/download.jpeg -o results --fp32
