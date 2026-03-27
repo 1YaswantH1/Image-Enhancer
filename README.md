@@ -9,20 +9,20 @@
     <th>Input</th>
     <th>Output</th>
   </tr>
-  <tr>
+   <tr>
     <td>
-      <img src="inputs/image2.jpeg" style="width:600px; height:350px; object-fit:cover;"/>
+      <img src="inputs/image1.jpeg" style="width:600px; height:0px; object-fit:cover;"/>
     </td>
     <td>
-      <img src="results/image2.jpeg" style="width:600px; height:350px; object-fit:cover;"/>
+      <img src="results/image1.jpeg" style="width:600px; height:0px; object-fit:cover;"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="inputs/image1.jpeg" style="width:600px; height:350px; object-fit:cover;"/>
+      <img src="inputs/image2.jpeg" style="width:600px; height:0px; object-fit:cover;"/>
     </td>
     <td>
-      <img src="results/image1.jpeg" style="width:600px; height:350px; object-fit:cover;"/>
+      <img src="results/image2.jpeg" style="width:600px; height:0px; object-fit:cover;"/>
     </td>
   </tr>
 </table>
