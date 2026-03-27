@@ -1,6 +1,6 @@
 # Image Enhacer
 
-
+About Project - Enhance image quality using **RealESRGAN** with support for batch, single image, and interactive processing.
 
 ## Side-by-Side Comparison
 
