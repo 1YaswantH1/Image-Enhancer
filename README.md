@@ -1,11 +1,31 @@
 # Image Enhacer
 
+Enhance image quality using **RealESRGAN** with support for batch, single image, and interactive processing.
+
 ## Side-by-Side Comparison
 
-| Input | Output |
-|------|--------|
-| ![Input](inputs/image2.jpeg) | ![Output](results/image2.jpeg) |
-| ![Input](inputs/image1.jpeg) | ![Output](results/image1.jpeg) |
+<table>
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="inputs/image2.jpeg" style="width:300px; height:200px; object-fit:cover;"/>
+    </td>
+    <td>
+      <img src="results/image2.jpeg" style="width:300px; height:200px; object-fit:cover;"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="inputs/image1.jpeg" style="width:300px; height:200px; object-fit:cover;"/>
+    </td>
+    <td>
+      <img src="results/image1.jpeg" style="width:300px; height:200px; object-fit:cover;"/>
+    </td>
+  </tr>
+</table>
 
 ## Clone The Repository
 ```bash
